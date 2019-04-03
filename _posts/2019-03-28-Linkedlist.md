@@ -41,8 +41,7 @@ Methods for the linkedlist part problems:
 1. Write basic model like, insert, delete, reverse and also need to be really expert 
 2. Combine the basic model to solve the whole big problem
 
-### Prob1. 876. Middle of the Linked List
-[https://leetcode.com/problems/middle-of-the-linked-list/]
+### Prob1. 876. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 1. hashset 
 2. o(n)  visited 
@@ -50,15 +49,13 @@ Methods for the linkedlist part problems:
 The use the M3: we can find 1/3, 1/4, 1/n 
 
 
-### Prob2. 141. Linked List Cycle 
-[https://leetcode.com/problems/linked-list-cycle/]
+### Prob2. 141. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 
  slow.next  fast.next.next 
          slow == fast 
     If there is a circle, then the two pointers will at end meet at some one point, because both of them are trapped in the circle
 
-### Prob3. 142. Linked List Cycle II  
-[https://leetcode.com/problems/linked-list-cycle-ii/]
+### Prob3. 142. [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 
 Find the cycle start point 
 Use a extra list to mark the visited and and then return the first visited node
@@ -70,11 +67,10 @@ Steps:
   a. Find the node 
   b. Insert node 
 
-### Prob5.  203. Remove Linked List Elements 
-[https://leetcode.com/problems/remove-linked-list-elements/]
+### Prob5.  203. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
 
 For delete, the important part is that we need to use a tmp node to mark the target.next first, incase we loose the information 
-** Solution **
+**Solution**
     aa. with head  prev = head, prev.next.val == target.val, prev.next = prev.next.next
     bb. without head  change the value, (problems:  reference is wrong)
 ```java 
@@ -97,8 +93,7 @@ class Solution {
 }
 ```
 
-### Prob6. 237. Delete Node in a Linked List  
-[https://leetcode.com/problems/delete-node-in-a-linked-list/]
+### Prob6. 237. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 ```java
 class Solution {
     public void deleteNode(ListNode node) {
@@ -109,8 +104,7 @@ class Solution {
 }
 ```
 
-### Prob7. 83. Remove Duplicates from Sorted List 
-[https://leetcode.com/problems/remove-duplicates-from-sorted-list/]
+### Prob7. 83. [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 
 ```java 
 
@@ -143,8 +137,7 @@ class Solution {
 }
 ```
 
-### Prob8. 21. Merge Two Sorted Lists 
-[https://leetcode.com/problems/merge-two-sorted-lists/]
+### Prob8. 21. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 
 ```java
 
@@ -177,8 +170,7 @@ class Solution {
     }
 }
 ```
-### Prob9. 143. Reorder List 
-[https://leetcode.com/problems/reorder-list/]
+### Prob9. 143. [Reorder List](https://leetcode.com/problems/reorder-list/)
 
 ```java
 
