@@ -1,6 +1,6 @@
 # Site settings
-title: BY Blog
-SEOTitle: Lu Zhang | BY Blog
+title: Lu Zhang Blog
+SEOTitle: Lu Zhang | Lu Zhang Blog
 header-img: img/post-bg-desk.jpg
 email: zlustc1311@gmail.com
 description: "Every failure is leading towards success."
@@ -12,7 +12,7 @@ github_repo: "https://github.com/LuZhang96/luzhang96.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/luzhang.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
