@@ -17,7 +17,7 @@ Tensorflow is used for Goolge Translation, Google Search, etc.
 
 ## What we can do with Tensorflow?
 We have the version of TF with python, C++, java, and Back Propagating is implemented  with python. So, most of people use python API to train the TF model. 
-## NLP & Tensorflow 
+## Examples Tensorflow 
 Example: 
 ```python
 import tensorflow as tf
