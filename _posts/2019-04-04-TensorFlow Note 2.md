@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      TensorFlow Note 2 
+title:      TensorFlow Word Classification
 subtitle:   
 date:       2019-04-04
 author:     Lu Zhang

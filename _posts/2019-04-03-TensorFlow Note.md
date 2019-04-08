@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Tensorflow Note
+title:      Tensorflow Basic
 subtitle:   
 date:       2019-04-03
 author:     Lu Zhang
