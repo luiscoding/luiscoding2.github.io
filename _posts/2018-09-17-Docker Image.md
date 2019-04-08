@@ -18,7 +18,7 @@ At first, when I worked in the spatial computing lab, the demo was built and pac
 So docker could be a choice at for this case. 
 ## What is Docker?
 
-![img](../img/images/2018-09-17-Docker_Image/docker-1.png)
+![img](https://cdn-images-1.medium.com/max/1600/1*easlVE_DOqRDUDkVINRI9g.png)
 
 Docker can be seen as a isolated environment
 Docker can be seen as a file which can be used to build the environment 
