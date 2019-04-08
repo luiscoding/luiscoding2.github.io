@@ -23,11 +23,11 @@ So docker could be a choice at for this case.
 Docker can be seen as a isolated environment
 Docker can be seen as a file which can be used to build the environment 
 
-From the image above, we can see, 
+From the image above, we can see 
 First, we have a Dockerfile:
 In the Dockerfile, we write the code,  which contain information like what app we want to install in our environment, the following one is a dockerfile which install the firefox-headless 
 
-```Dockerfile 
+```docker 
 # Run Firefox Headless in a container
 #
 #
