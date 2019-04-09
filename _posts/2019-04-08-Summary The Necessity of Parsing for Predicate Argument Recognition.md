@@ -38,3 +38,24 @@ Why path feature is useful for unknown boundary condition?
 
 ### Experiment 
 In order to see how much of the performance degradation is caused by the difficulty of finding exact argument boundaries in the chunked representation, we can relax the scoring criteria to count as correct all cases where the system correctly identies the rest chunk belonging to an argument.
+
+
+### Semantics 
+Semantics is a big topic in NLP field, semantics, in general, is the study of meaning. What do expressions mean? How can we extract meaning from representations used in language? Why is semantic is important? 
+
+**Lexical Semantics**  meanings of words
+**Compositional Semantics** how meanings are put together 
+**Moel- Theoritic Semantics** Map human language expressions to a logical representation taht is instantiated in a model 
+Scope Ambiguous: 
+When we talk about semantics, we can look up the dictionaries to check the meaning of the words. 
+Dictionaries: 
+WordNet- w3 ontology 
+Probank  
+FrameNet 
+[OntoNotes](https://catalog.ldc.upenn.edu/LDC2013T19), word sense disambiguation. 
+
+
+
+
+
+
