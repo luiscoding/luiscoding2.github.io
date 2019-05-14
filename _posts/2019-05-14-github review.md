@@ -7,7 +7,7 @@ author:     Lu Zhang
 header-img: img/images/img-190403.jpg
 catalog: true
 tags:
-    - fun
+    - FUN
 ---
 ## What Keyboard are you using?
 Last summer, when I did my summer internship in a German Company, I used a week to adapted myself to the German keyboard. Basically, we have different languages and input sources, keyboards could be different for local use. I have a collegue from Columbia, whos keyboard is different from the one we usually use. I thought it is a spanish one, but he told me it is Dvorak Keyboad. 
